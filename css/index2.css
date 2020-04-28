@@ -66,3 +66,7 @@ body {
 }
 
 /* about-wrap */
+.about-wrap{max-width: 1000px;margin: 0 auto;text-align:left;
+position: relative;}
+.about-wrap>.logo{font-size: 36px;color: #666;margin: 0 auto;text-align: right;}
+.about-wrap>.title{font-size: 36px;color: #666;margin: 0 auto;text-align: right}
